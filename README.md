@@ -24,6 +24,13 @@ nuove applicazioni/comandi bash)
     nohup
     sudo (per Gparted)
 
+ - Firefox (browser)
+ - Kitty (terminal)
+ - Thunar (file manager)
+ - Gparted (gestore partizioni)
+
+(queste non sono vere dipendenze, bensì applicazioni che il codice va ad eseguire, se assenti il programma potrebbe crashare, dare errori imprevisti o fare danni al sistema)
+
 # Creazione
 
 Salva il codice in un file (ad esempio blauncher.sh).
@@ -34,6 +41,8 @@ Rendi eseguibile il file:
 Esegui lo script:
 
     ./blauncher.sh
+
+# Scopo
 
 Lo script è stato creato per facilitare l'avvio rapido delle applicazioni in sistemi linux (nel mio caso debian 12)
 senza bisogno di barre degli strumenti o desktop environment avanzati.

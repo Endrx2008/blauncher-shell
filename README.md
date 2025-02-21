@@ -46,3 +46,10 @@ Esegui lo script:
 
 Lo script è stato creato per facilitare l'avvio rapido delle applicazioni in sistemi linux (nel mio caso debian 12)
 senza bisogno di barre degli strumenti o desktop environment avanzati.
+
+# ⚠️ Attenzione:
+## Il codice è stato rimpiazzato da una versione in python più estetica ed efficente
+
+Per maggiori info o per il download dello script python recarsi alla repo:
+
+    https://github.com/Endrx2008/blauncher-py
